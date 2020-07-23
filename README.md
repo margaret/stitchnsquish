@@ -1,2 +1,3 @@
 # stitchnsquish
-Stitch N Squish website
+
+[Stitch N Squish](https://stitchnsquish.com) website
