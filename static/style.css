@@ -64,7 +64,7 @@ iframe, object, embed {
     font-size: 20px;
 }
 
-.project-title {
+.project-title h2 {
     color:#1d6991;
 }
 
@@ -112,7 +112,8 @@ img {
 }
 
 .img-preview img {
-    max-width: 500px;
+    max-width: 400px;
     padding: 20px;
+
 }
 
