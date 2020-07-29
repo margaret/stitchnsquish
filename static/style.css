@@ -56,6 +56,37 @@ iframe, object, embed {
     text-align: center
 }
 
+.pattern-flair {
+    /*font-weight: bold;*/
+    /*orange*/
+    font-family: Courier,serif;
+    color:#FA6900;
+    font-size: 20px;
+}
+
+.project-title {
+    color:#1d6991;
+}
+
+.project-title a {
+    text-decoration: none;
+    color:#1d6991;
+}
+
+.project-title:hover a {
+    color: #7887af;
+}
+
+.toc li {
+    font-family: Courier,serif;
+    color:#444;
+}
+
+.toc a {
+    text-decoration: none;
+    color:#1d6991;
+}
+
 .navlinks {
     margin:40px auto;
     max-width:650px;
@@ -67,5 +98,11 @@ iframe, object, embed {
 .navlinks a {
     text-decoration: none;
     color:#FA6900;
+}
+
+.subtle {
+    font-size: 14px;
+    color:#666; /*🤘*/ 
+    font-style:italic;
 }
 
