@@ -49,7 +49,9 @@ iframe, object, embed {
 }
 
 .round-img img {
-    border-radius: 50%
+    border-radius: 50%;
+    max-width: 650px;
+    width: 50%;
 }
 
 .center-text {
