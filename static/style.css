@@ -108,5 +108,6 @@ iframe, object, embed {
 
 .img {
     max-width: 650px;
+    padding: 20px;
 }
 
