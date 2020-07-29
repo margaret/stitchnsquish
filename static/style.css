@@ -106,7 +106,7 @@ iframe, object, embed {
     font-style:italic;
 }
 
-.img {
+img {
     max-width: 650px;
     padding: 20px;
 }
