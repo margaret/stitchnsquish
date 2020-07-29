@@ -108,10 +108,12 @@ iframe, object, embed {
 
 img {
     max-width: 650px;
+    width: 80%;
     padding: 20px;
 }
 
 .img-preview img {
+    width: 25%;
     max-width: 400px;
     padding: 20px;
 
