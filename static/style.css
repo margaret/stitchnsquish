@@ -106,3 +106,9 @@ iframe, object, embed {
     font-style:italic;
 }
 
+.img {
+    max-width: 650px;
+    width:80%;
+    padding: 20px
+}
+
