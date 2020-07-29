@@ -20,6 +20,10 @@ body {
     font-family: Helvetica, sans-serif;
 }
 
+.mobile p {
+    max-width:80%;
+}
+
 a:link {
     color: #1d6991;
 }
