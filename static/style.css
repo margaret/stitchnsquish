@@ -111,3 +111,8 @@ img {
     padding: 20px;
 }
 
+.img-preview img {
+    max-width: 500px;
+    padding: 20px;
+}
+
