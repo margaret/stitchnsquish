@@ -75,6 +75,13 @@ a:visited {
   padding:0 10px;
 }
 
+.content img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 60vw;
+}
+
 .circle {
   max-width: 400px;
   margin-left: auto;
