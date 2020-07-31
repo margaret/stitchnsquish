@@ -80,7 +80,8 @@ a:visited {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  max-width: 60vw;
+  max-width: 50vw;
+  padding: 10px;
 }
 
 .circle {
